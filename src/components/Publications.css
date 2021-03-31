@@ -1,0 +1,25 @@
+.publications{
+    margin-top: 50px;
+}
+
+.publications__heading {
+    font-size: 2rem;
+    margin-bottom: 80px;
+}
+
+.publications__title{
+    font-size: 21px;
+}
+
+.publications__authors {
+    font-style: italic;
+    font-size: 14px;
+}
+
+.publications__desc{
+    font-size: 16px;
+}
+
+.publications__links{
+    margin-top: 0px !important;
+}

@@ -1,0 +1,41 @@
+/* .navbar.active {
+  background-color: white;
+  color: black;
+} */
+
+/* .custom__nav {
+  margin: 1rem auto 2rem auto;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: white;
+} */
+
+.navbar {
+  border-bottom: 1px solid rgb(216, 216, 216);
+}
+
+.nav-item > link {
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: pink;
+  padding-left: 20px;
+}
+
+.navbar__link {
+  text-transform: uppercase;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #868686;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+
+.navbar__link:hover {
+  color: #0352a79c;
+  text-decoration: none;
+}
+
+.navbar__link:active{
+  color: #0352a79c;
+}
