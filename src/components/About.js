@@ -35,7 +35,7 @@ export default function About() {
             <Row className="my-5">
                 <Col></Col>
                 <Col>
-                    <h5>News Carousel goes here</h5>
+                    <h5>News Carousel goes here...</h5>
                 </Col>
                 <Col></Col>
             </Row>
