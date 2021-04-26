@@ -1,0 +1,19 @@
+.app__bg {
+  height: 100%;
+  width: 100%;
+  /* background-image: url("https://www.itl.cat/pngfile/big/157-1572191_hd-wallpapers-for-website-background-cool-background-image.jpg"); */
+  background-image: url("https://wallpaperboat.com/wp-content/uploads/2019/10/website-background-texture-10.jpg");
+  background-repeat: no-repeat;
+  position: absolute;
+  background-size: cover;
+  z-index: -1;
+  position: fixed;
+}
+
+.app {
+  position: relative;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: #fff;
+  min-height: 100vh;
+}
